@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# Todo-App-RX
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> This tutorial, divided into several parts, is very comprehensive, and covers all main concepts about React, from the very basics to some intermediate topics.
 
-## Available Scripts
+## Preview
+![App Preview](src/assets/app-preview.png)
 
-In the project directory, you can run:
+## Tutorial Guide
+- The tutorial is organized in the following sections:
+    - [Part 1 - React tutorial: The beginner's guide to learning React in 2020](https://ibaslogic.com/react-tutorial-for-beginners/).
+    - [Part 2 - Working with React form and handling event](https://ibaslogic.com/react-form-handling/).
+    - [Part 3 – How to implement CSS in Reactjs app](https://ibaslogic.com/css-in-reactjs-app/).
+    - [Part 4 – How to edit to dos items](https://ibaslogic.com/how-to-edit-todos-items-in-react/).
+    - [Part 6 – Getting started with React lifecycle methods](https://ibaslogic.com/react-lifecycle-methods/).
+    - [Part 7 – Getting started with React hooks](https://ibaslogic.com/react-hooks-tutorial/).
+    - [Part 9 – Routing with React Router](https://ibaslogic.com/routing-with-react-router/).
 
-### `npm start`
+## Built With (Linter)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React
+- JavaScript (Eslint)
+- CSS (Stylelint)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Prerequisites
+The following applications are required to be installed for the project to run!
+- Modern browser e.g [Google Chrome](https://www.google.com/chrome/), [Edge](https://www.microsoft.com/en-us/edge?r=1), [Firefox](https://www.mozilla.org/en-US/exp/firefox/new/) etc.
+- [Node.js](https://nodejs.org/en/download/) LTS version
+- [Git](https://git-scm.com/downloads)
 
-### `npm test`
+## App Setup
+- Clone [this](https://github.com/PraisesPJMT/Todo-App-RX) GitHub repository using `git clone git@github.com:PraisesPJMT/Todo-App-RX.git`
+- Download all required modules using `npm install` inside the project directory (/Todo-App-RX)
+- Launch project on browser using `npm start` inside the project directory (/Todo-App-RX)
+    - This should launch the app on the browser
+    - If the app is not opened immediately, then open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## App Deployment
+App deployment is coming soon...
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Authors
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+👤 **Praises Tula**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- GitHub: [@praisespjmt](https://github.com/PraisesPJMT)
+- Twitter: [@praisespjmt](https://twitter.com/PraisesPJMT)
+- LinkedIn: [Praises Musa Tula](https://www.linkedin.com/in/praises-tula-9233aa76)
 
-### `npm run eject`
+## 🤝 Contributing
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Contributions, [issues](https://github.com/PraisesPJMT/Todo-App-RX/issues), and feature requests are welcome!
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## ⭐️ Show your support
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Give a ⭐️ if you like this project!
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Acknowledgments
 
-## Learn More
+- Hat tip to anyone whose code was used
+- Hat tip to you for checking out this amazing project.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📝 License
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is [MIT](./LICENSE) licensed.
