@@ -1,26 +1,28 @@
+/* eslint-disable react/prop-types */
+/* eslint-disable react/destructuring-assignment */
 import React, { useState } from 'react';
 
-const InputTodo = props => {
+const InputTodo = (props) => {
   const [inputText, setInputText] = useState({
-    title: "",
-  })
+    title: '',
+  });
 
-  const onChange = event => {
+  const onChange = (event) => {
     setInputText({
       ...inputText,
       [event.target.name]: event.target.value,
-    })
-  }
+    });
+  };
 
-  const handleSubmit = event => {
-    event.preventDefault()
+  const handleSubmit = ({ event }) => {
+    event.preventDefault();
     if (inputText.title.trim()) {
-      props.addTodoProps(inputText.title)
+      props.addTodoProps(inputText.title);
       setInputText({
-        title: "",
-      })
+        title: '',
+      });
     }
-  }
+  };
 
   return (
     <form onSubmit={handleSubmit} className="form-container">
@@ -32,9 +34,14 @@ const InputTodo = props => {
         name="title"
         onChange={onChange}
       />
-      <button className="input-submit">Submit</button>
+      <button
+        className="input-submit"
+        type="button"
+      >
+        Submit
+      </button>
     </form>
-  )
-}
+  );
+};
 
 export default InputTodo;

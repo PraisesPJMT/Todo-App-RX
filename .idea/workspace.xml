@@ -2,8 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46347d6d-a21f-4cab-b191-d60df895c214" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.old.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classBased/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/classBased/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classBased/components/InputTodo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/classBased/components/InputTodo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classBased/components/TodoContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/classBased/components/TodoContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classBased/components/TodoItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/classBased/components/TodoItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classBased/components/TodoItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/classBased/components/TodoItem.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classBased/components/TodosList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/classBased/components/TodosList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functionBased/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/functionBased/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functionBased/components/InputTodo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/functionBased/components/InputTodo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functionBased/components/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/functionBased/components/NavBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functionBased/components/TodoContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/functionBased/components/TodoContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functionBased/components/TodoItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/functionBased/components/TodoItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functionBased/components/TodoItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/functionBased/components/TodoItem.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functionBased/components/TodosList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/functionBased/components/TodosList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functionBased/pages/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/functionBased/pages/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functionBased/pages/NotMatch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/functionBased/pages/NotMatch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functionBased/pages/SinglePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/functionBased/pages/SinglePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +70,7 @@
       <workItem from="1662976230191" duration="9185000" />
       <workItem from="1662985580305" duration="17221000" />
       <workItem from="1663057901865" duration="3429000" />
+      <workItem from="1663345800715" duration="1299000" />
     </task>
     <servers />
   </component>
